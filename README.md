@@ -1,3 +1,3 @@
 ## LGMVIP Java Task-1
 
-Currency Converter Using JAVA 
+An interface for converting currency and getting the output value
